@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600;700&family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200&family=Open+Sans:wght@500&family=Orelega+One&family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@300&family=Secular+One&family=Source+Sans+Pro:ital,wght@1,600&display=swap');
+
+
+.signup{
+    border: 1px solid;
+    height: 100vh;
+    width: 100vw;
+     font-family: 'Josefin Sans', sans-serif;
+     background-color: rgb(3, 4, 24);
+     color: white;
+}
+.signup form{
+    /* border: 1px solid white; */
+    width: 40%;
+    border-radius: 2rem;
+    background-color: black;
+    height: 80vh;
+    margin: auto;
+    padding: 3rem;
+    margin-top: 5%;
+
+}
+.signup form input{
+    border-color: rgb(70, 70, 255);
+}
+
+.brand h1{
+     font-family: 'Josefin Sans', sans-serif;
+     text-transform: uppercase;
+}
